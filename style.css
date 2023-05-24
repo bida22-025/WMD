@@ -46,6 +46,11 @@ body {
     background-position: center;
     box-sizing: border-box;
     font-family: italian;}
+
+section{
+
+#slide{ 
+
 #slide{
       position: relative;
       width: 100%;
@@ -229,6 +234,7 @@ body {
     }
     /* /6 */
   }
+  }	
     #h1{
         text-align: center;
         color: white;
